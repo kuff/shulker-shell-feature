@@ -19,11 +19,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "afterdark.AfterDark"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "afterdark.mixins.json"
   ],
 
   "depends": {
